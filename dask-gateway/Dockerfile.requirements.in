@@ -16,3 +16,7 @@
 #
 bokeh
 numpy
+fsspec
+xarray
+zarr
+pykdtree
