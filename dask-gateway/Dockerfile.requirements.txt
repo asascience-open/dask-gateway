@@ -61,7 +61,7 @@ multidict==6.0.2
     # via
     #   aiohttp
     #   yarl
-numpy==1.23.4
+numpy==1.24.0
     # via
     #   -r Dockerfile.requirements.in
     #   bokeh
