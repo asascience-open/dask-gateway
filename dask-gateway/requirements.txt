@@ -12,3 +12,4 @@ pykdtree
 s3fs
 cf_xarray
 lz4
+rioxarray
